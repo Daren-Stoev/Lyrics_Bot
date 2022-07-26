@@ -1,1 +1,0 @@
-{"rnn_layers": 16, "rnn_size": 128, "rnn_bidirectional": false, "max_length": 5, "max_words": 10000, "dim_embeddings": 100, "word_level": true, "single_text": false, "name": "Linkin_Park_Lyrics"}
