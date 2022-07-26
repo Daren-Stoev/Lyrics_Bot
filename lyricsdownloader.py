@@ -2,7 +2,7 @@ from genericpath import exists
 import lyricsgenius as lg
 import os
 #if(exists("/Users/User/Desktop/auto_.txt")):
-file = open('C:/Users/User/Desktop/auto_.txt', 'w')
+file = open('auto_.txt', 'w')
 genius = lg.Genius('ZmGunvTbssfWj6HToiES_LIgMEIlv9HI1aliLbo9iUpvsyvc5DsP4em1lgiQj-uB',
 skip_non_songs=True, excluded_terms=["(Remix) , (Live)"],
 remove_section_headers=True )
